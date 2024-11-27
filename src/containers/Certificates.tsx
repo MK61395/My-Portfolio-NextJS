@@ -1,6 +1,7 @@
 'use client';
 import { motion } from 'framer-motion';
 import { certificates } from '@/lib/content/certificates';
+import Image from 'next/image'; // Import Image from next/image
 
 const Certificates = () => {
   return (
@@ -15,9 +16,12 @@ const Certificates = () => {
             transition={{ duration: 0.5, delay: index * 0.1 }}
             className="bg-gray-50 dark:bg-slate-800 rounded-lg p-6 shadow-lg transition-all duration-300"
           >
-            <img
+            {/* Replace <img> with <Image /> */}
+            <Image
               src={cert.image}
               alt={cert.name}
+              width={500} // Set width (adjust as needed)
+              height={300} // Set height (adjust as needed)
               className="w-full h-48 object-cover rounded-lg mb-4 transition-transform duration-300 transform hover:scale-105"
             />
             <h3 className="text-xl font-bold mb-2 transition-colors duration-300 hover:text-accent">
