@@ -1,0 +1,276 @@
+[33mcommit 9f2487e5ddbd93e06f08a9297346070dd1321c3b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: c72b521 786aebb
+Author: Muhammad Kashif <m.kashi613@gmail.com>
+Date:   Wed Nov 27 18:53:22 2024 +0500
+
+    Merge remote-tracking branch 'origin/main' into main
+
+[33mcommit c72b521b3f24aa64ee3eaa9f1fb96c2807b21bfc[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Muhammad Kashif <m.kashi613@gmail.com>
+Date:   Wed Nov 27 18:51:28 2024 +0500
+
+    Initial commit
+
+[33mcommit 786aebbd284e20711dbedfbca8a2a2a159c3e6ac[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Thu Sep 5 19:17:28 2024 +0530
+
+    content: experience update
+
+[33mcommit 31d110d49c97855082e3a273bb7b10374806f8d9[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Thu Sep 5 19:10:19 2024 +0530
+
+    update: resume
+
+[33mcommit 5fe0a3923baf2e0f70d77c834c5f1669fa22ef0d[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Thu Sep 5 18:44:14 2024 +0530
+
+    chore: remove unused dependencies
+
+[33mcommit 3111b0f5384b9f1c3611624ffe9ed5f22f00687f[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Thu Sep 5 18:41:53 2024 +0530
+
+    feat: format on save add
+
+[33mcommit 3ccef2c5f293b7ca9e76827b41a9e42d98831e88[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Sat Aug 24 01:23:45 2024 +0530
+
+    fix: project name in resume
+
+[33mcommit 253d92d634701321500ef7c3c776936f75ed3257[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Thu Aug 22 00:26:15 2024 +0530
+
+    fix: project img
+
+[33mcommit 6fbdefa3033cd3b5c9e98e52748922b3c2a2aba7[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Thu Aug 22 00:04:31 2024 +0530
+
+    content: buttons animation project add
+
+[33mcommit 256d275a078accb2459fe2477b08e80c14746e74[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Tue Aug 13 22:22:58 2024 +0530
+
+    content: resume update
+
+[33mcommit 71a0026aa1d905313444935c73f7752bf3b43505[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Tue Aug 13 14:19:24 2024 +0530
+
+    fix: content and urls
+
+[33mcommit 845882a974dda279b86f1258fdf8e66729a5128b[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Sun Jun 23 00:46:55 2024 +0530
+
+    content: resume update
+
+[33mcommit e7aa6808f2806365f92cbafadca92977f7cf04f1[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Mon Jun 17 23:08:18 2024 +0530
+
+    update: project img
+
+[33mcommit dfb91e1e027a0095508582bf985389c16c1a042d[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Mon Jun 17 23:07:47 2024 +0530
+
+    fix: css variables colour add
+
+[33mcommit 79e9d7f84ab3c99c54f97582e00e516497f93a0a[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Mon Jun 17 23:06:39 2024 +0530
+
+    feat: selection colour add
+
+[33mcommit f004a2cd3e9b4708bd3b153fa5a8a67140ba493f[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Mon Jun 17 19:28:54 2024 +0530
+
+    refact: prettier format
+
+[33mcommit 49fbe3f9c4f28aabf4964677e52d3079ef422ca4[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Mon Jun 17 19:28:19 2024 +0530
+
+    content: about me
+
+[33mcommit f1814a6c7ccd2f0f4c2ea1ba2e0226ac1006adef[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Mon Jun 17 19:08:59 2024 +0530
+
+    contnet: new project add
+
+[33mcommit 73e88290d13d03139cf103be31afac5fada02f26[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Wed May 15 18:33:36 2024 +0530
+
+    content: new projects add
+
+[33mcommit 2d36c5aa0d17c13e7611903db836e5a9feb2336d[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Wed May 15 18:28:30 2024 +0530
+
+    content: new projects add
+
+[33mcommit d3a0df57f2db0bbed186df9baf0ced6be3106245[m
+Author: Vatsal Singh <68834718+vatsalsinghkv@users.noreply.github.com>
+Date:   Thu Jan 18 13:20:14 2024 +0530
+
+    fix: header simplify in readme
+
+[33mcommit a233fdb19afd47ac4fb238d81007b437b6d565c2[m
+Author: Vatsal Singh <68834718+vatsalsinghkv@users.noreply.github.com>
+Date:   Wed Jan 3 10:31:45 2024 +0530
+
+    feat: readme update -  migrate next 13
+
+[33mcommit d8e4c27eeaf47556cb4133749f346f859dac01c0[m
+Merge: 5ce4e8c a836388
+Author: Vatsal Singh <68834718+vatsalsinghkv@users.noreply.github.com>
+Date:   Tue Jan 2 20:59:23 2024 -0800
+
+    Merge pull request #16 from vatsalsinghkv/features
+    
+    Features Project
+
+[33mcommit 5ce4e8cc4e3c94294d77bd0b84bdf45f01ff5841[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Tue Dec 12 18:57:52 2023 +0530
+
+    update: resume
+
+[33mcommit a83638865337ac4cd7799fc857ea1a95f3a75af3[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Sat Nov 25 12:53:38 2023 +0530
+
+    feat: featured projects add
+
+[33mcommit 2ad0bb054c3ce43a03fd224d6f6682d94f1f1dfe[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Sat Nov 25 12:52:57 2023 +0530
+
+    feat: clsx add
+
+[33mcommit 01fc0a75789e219f6d20f703e194f1c43ea1eb5e[m
+Merge: 5872056 e77cce4
+Author: Vatsal Singh <68834718+vatsalsinghkv@users.noreply.github.com>
+Date:   Sun Oct 29 20:17:33 2023 +0530
+
+    Merge pull request #12 from surya-mu/main
+    
+    [Added] Updated README.md
+
+[33mcommit 587205680ac1c4e30cc054fbab7bfbe96ab13b0c[m
+Merge: 506f18d e95786c
+Author: Vatsal Singh <68834718+vatsalsinghkv@users.noreply.github.com>
+Date:   Sun Oct 29 20:16:20 2023 +0530
+
+    Merge pull request #14 from HexMaster101/main
+    
+    fix: cursor height
+
+[33mcommit e95786ce85f2b3e2ce393f26d00e868f7afdd65c[m
+Author: HexMaster101 <luckygupta9219@gmail.com>
+Date:   Sun Oct 29 15:33:06 2023 +0530
+
+    fix: cursor height
+
+[33mcommit 506f18d82688f4dcdf20f945e08cabdc3f3da053[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Sun Oct 29 15:13:15 2023 +0530
+
+    fix: navbtn
+
+[33mcommit e77cce4e4409d428d0cce72b52fa6219c313df17[m
+Merge: 10c8a52 3afeebb
+Author: Surya <101094019+surya-mu@users.noreply.github.com>
+Date:   Wed Oct 18 07:31:54 2023 +0530
+
+    Merge branch 'vatsalsinghkv:main' into main
+
+[33mcommit 3afeebb795cf8701f3f971d8e4e0259413805491[m
+Author: vatsal <vatsalsinghkv@gmail.com>
+Date:   Tue Oct 17 00:24:32 2023 +0530
+
+    fix: navbtn
+
+[33mcommit 10c8a52e78d79c592508da4c2e207929e9e40292[m
+Author: Surya <101094019+surya-mu@users.noreply.github.com>
+Date:   Sun Oct 15 15:11:19 2023 +0530
+
+    [Added] Updated README.md
+    
+    Added A Table of Contents Section in the beginning, and a Scroll to Top Button at the bottom of Readme.md File.
+
+[33mcommit f36edda2c3e09b93a0c8ace59da80fcdf7d87833[m
+Merge: b99e34e fdbd5ab
+Author: Vatsal Singh <68834718+vatsalsinghkv@users.noreply.github.com>
+Date:   Sun Oct 15 11:54:24 2023 +0530
+
+    Merge pull request #11 from shreyashchandra/main
+    
+    Integrating  Husky and Lint-staged
+
+[33mcommit fdbd5ab30536de9338f72a0db96bc5c4d24c3a93[m
+Author: Shreyash <shreyash.chandra123@gmail.com>
+Date:   Sun Oct 8 23:08:50 2023 +0530
+
+    testing
+
+[33mcommit 14ab05835031dfb195377b6914b16eb8f99ece84[m
+Author: Shreyash <shreyash.chandra123@gmail.com>
+Date:   Sun Oct 8 23:06:14 2023 +0530
+
+    Integrating ESLint, Husky
+
+[33mcommit e674bb6968a82d8199b2de2dc0a4af68121edb77[m
+Author: Shreyash <shreyash.chandra123@gmail.com>
+Date:   Sun Oct 8 22:59:56 2023 +0530
+
+    Empty-Commit
+
+[33mcommit b99e34e1f245e6b69b78995bb61cc04a009f7ad3[m
+Merge: aaffc58 eb283b2
+Author: Vatsal Singh <68834718+vatsalsinghkv@users.noreply.github.com>
+Date:   Wed Oct 4 21:20:15 2023 +0530
+
+    Merge pull request #10 from mohdimran25/refact
+    
+    feat: improved file structure for content
+
+[33mcommit eb283b29c7f5dda46d80cdc83a9110c9124f4019[m
+Author: Mohd Imran <imran255stark@gmail.com>
+Date:   Wed Oct 4 21:13:25 2023 +0530
+
+    fix(refactor): renamed files & fixed imports
+
+[33mcommit 2e023bc091b30cfc834007d1f6cf5ec313fa51e9[m
+Author: Mohd Imran <imran255stark@gmail.com>
+Date:   Wed Oct 4 01:02:01 2023 +0530
+
+    refactor: added separate files for sections
+
+[33mcommit 60d904259c66a8e71e1475fcc9bf183127d9beea[m
+Author: Mohd Imran <imran255stark@gmail.com>
+Date:   Wed Oct 4 00:59:24 2023 +0530
+
+    chore: updated according to system
+
+[33mcommit a00a6b7c23712c1df85456ff67308b58a99b8aad[m
+Author: Mohd Imran <imran255stark@gmail.com>
+Date:   Wed Oct 4 00:47:34 2023 +0530
+
+    refact: changed source path
+
+[33mcommit 8a06c0a49e4c8eacfb2d45e0ef9ba6365ad103eb[m
+Author: Mohd Imran <imran255stark@gmail.com>
+Date:   Wed Oct 4 00:41:35 2023 +0530
+
+    add: added packa
