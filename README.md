@@ -2,7 +2,7 @@
   https://mordred613.netlify.app/
 </h1>
 <p align="center">
-  A portfolio website i.e. <a href="vercel_link" target="_blank">vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  A portfolio website i.e. <a href="https://mordred613.netlify.app/" target="_blank">netlify.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <p align="center">
@@ -21,11 +21,7 @@
 - [Sections](#sections)
 - [Built With](#built-with)
 - [How to use](#how-to-use)
-- [Contributing](#contributing)
-- [Continuous Development](#continuous-development)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-- [Show Your Support](#show-your-support)
 
 ## Sections
 
