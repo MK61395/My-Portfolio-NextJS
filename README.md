@@ -83,6 +83,6 @@
 
 ## Contact
 
-- Website - []()
-- Github - []()
-- LinkedIn - []()
+- Website - [](https://mordred613.netlify.app/)
+- Github - [](https://github.com/MK61395)
+- LinkedIn - [](linkedin.com/in/muhammad-kashif-542761168)
