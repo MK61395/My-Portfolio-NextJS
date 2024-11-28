@@ -1,5 +1,5 @@
 <h1 align="center">
-  name.vercel.app
+  https://mordred613.netlify.app/
 </h1>
 <p align="center">
   A portfolio website i.e. <a href="vercel_link" target="_blank">vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
@@ -14,7 +14,7 @@
 
 <br>
 
-[![My Portfolio](https://i.imgur.com/sq9p3lq.png)](website_link)
+[![My Portfolio](https://i.imgur.com/sq9p3lq.png)](https://mordred613.netlify.app/)
 
 ## Table of Contents
 
