@@ -20,15 +20,22 @@ const Certificates = () => {
             <Image
               src={cert.image}
               alt={cert.name}
-              width={500} // Set width (adjust as needed)
-              height={300} // Set height (adjust as needed)
-              className="w-full h-48 object-cover rounded-lg mb-4 transition-transform duration-300 transform hover:scale-105"
+              width={500}
+              height={
+                cert.name === 'Top 25th Percentile Score Across Pakistan'
+                  ? 350
+                  : 300
+              }
+              className="w-full object-cover rounded-lg mb-4 transition-transform duration-300 transform hover:scale-105"
             />
+
             <h3 className="text-xl font-bold mb-2 transition-colors duration-300 hover:text-accent">
               {cert.name}
             </h3>
             <p className="text-primary mb-2">{cert.organization}</p>
-            <p className="text-gray-600 dark:text-gray-300 mb-2">{cert.description}</p>
+            <p className="text-gray-600 dark:text-gray-300 mb-2">
+              {cert.description}
+            </p>
             <p className="text-sm text-gray-500">{cert.date}</p>
           </motion.div>
         ))}

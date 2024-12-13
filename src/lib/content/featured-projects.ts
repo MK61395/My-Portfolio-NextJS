@@ -11,7 +11,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
       tasks: "Designed and developed the admin interface for an investment app to allow admins various tasks such as Managing user accounts, monitoring transactions, and overseeing investment portfolios in real time. Integrated role-based access control to ensure data integrity and confidentiality",
       url: 'https://github.com/MK61395/Admin-Dashboard-Mobile-Wallet-Application',
       img: 'https://i.imgur.com/8CdLTv7.png',
-      video: 'https://i.imgur.com/8CdLTv7.mp4', // Add video URL here
+      video: 'https://i.imgur.com/Aq27SVv.mp4', // Add video URL here
       tags: [
         'React',
         'JavaScript',
@@ -31,7 +31,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
         'Developed the mobile app using React Native and Expo for cross-platform compatibility. Implemented user-friendly UI components, integrated backend APIs for real-time data fetching, and designed secure authentication and transaction management features. Collaborated with the client to gather requirements and ensured smooth functionality by conducting extensive testing.',
       url: 'https://github.com/fareeahhh/MobileWalletApp-Interface-Frontend',
       img: 'https://i.imgur.com/I375sk5.png',
-      video: 'https://i.imgur.com/avYJDtJ.mp4',
+      video: 'https://i.imgur.com/yPspPnS.mp4',
       tags: ['React Native', 'Node JS', 'Expo', 'APIs', 'PostgreSQL'],
     },    
     {
