@@ -54,7 +54,7 @@ type NavItemsProps = {
 const NavItem = ({ href, children, onClick, index, delay }: NavItemsProps) => {
   return (
     <motion.li
-      className="group"
+      className="group relative"
       variants={slideIn({ delay: delay + index / 10, direction: 'down' })}
       initial="hidden"
       animate="show"
@@ -66,10 +66,17 @@ const NavItem = ({ href, children, onClick, index, delay }: NavItemsProps) => {
         withPadding
       >
         {children}
+        {children === 'certificates' && (
+          <span className="absolute -top-1 -right-1 h-2 w-2 bg-accent rounded-full"></span>
+        )}
+        {children === 'projects' && (
+          <span className="absolute -top-1 -right-1 h-2 w-2 bg-accent rounded-full"></span>
+        )}
       </CLink>
     </motion.li>
   );
 };
+
 
 const Navbar = () => {
   const { cta, navLinks } = navbarSection;
